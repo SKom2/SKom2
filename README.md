@@ -1,6 +1,5 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center">Что же ты тут ищешь? 🤔👋</h1>
-<h3 align="center">Всех рад видеть. Меня зовут Саша, я начинающий Веб разработчик</h3>
 
 <!--
 **SKom2/SKom2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
