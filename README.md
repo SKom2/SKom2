@@ -6,6 +6,7 @@
 - ⚡Хочу развиваться во многих направлениях, изучать новые технологии. 
 
 <h3 align="left">💬Мои контакты:</h3>
+
 [![Telegram Badge](https://img.shields.io/badge/-KomolkinAleks-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/AleksandrSpark) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:san4es.kom@gmail.com)
 
