@@ -22,7 +22,7 @@
 
 <h3 align="left">Успехи на CodeWars:</h3>
 
-[![CodeWars Profile](https://www.codewars.com/users/SparksPlug/badges/large)](https://www.codewars.com/users/SparksPlug)
+[![CodeWars Profile](https://www.codewars.com/users/AleksandrSpark/badges/large)](https://www.codewars.com/users/AleksandrSpark)
 
 
 
