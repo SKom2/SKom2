@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi All?👋</h1>
 
-🌱My name is Alex, I completed the Web Development course at **Yandex Prakticum!** and continue to develop myself.  
+🌱My name is Alex, I am a Frontend Developer.  
 🔭I love front-end development for the opportunity to show my creativity and create unique interfaces that make the Web space more accessible and enjoyable for users.  
 ⚡Strive to expand my knowledge and embrace many new areas and technologies that represent the future of Web development.
 
