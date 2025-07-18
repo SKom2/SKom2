@@ -35,14 +35,5 @@
 
 
 
-<h3 align="left">My statistics:</h3>
-
-<a href="http://www.github.com/SKom2"><img src="https://github-readme-stats.vercel.app/api?username=SKom2&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="SKom2's GitHub stats" /></a>
-
-<h3 align="left">Successes on CodeWars:</h3>
-
-[![CodeWars Profile](https://www.codewars.com/users/AleksandrSpark/badges/large)](https://www.codewars.com/users/AleksandrSpark)
-
-
 
 
